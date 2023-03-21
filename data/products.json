@@ -5,5 +5,12 @@
     "imageUrl": "https://www.publicdomainpictures.net/pictures/10000/velka/1-1210009435EGmE.jpg",
     "description": "This is an awesome book!",
     "price": "20"
+  },
+  {
+    "id": "0.8408857807751424",
+    "title": "Glass tumbler",
+    "imageUrl": "https://previews.123rf.com/images/efired/efired1303/efired130300105/18439048-glass-of-water-on-nature-background.jpg",
+    "description": "A beautiful glass tumbler.",
+    "price": "10"
   }
 ]
