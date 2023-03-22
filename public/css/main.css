@@ -103,6 +103,14 @@ form {
   border-radius: 3px;
 }
 
+.image {
+  height: 20rem;
+}
+
+.image img{
+  height: 100%;
+}
+
 #side-menu-toggle {
   border: 1px solid white;
   font: inherit;
